@@ -16,6 +16,7 @@
   <li>🧠 <b>Work philosophy</b>: Clean code, CI/CD, and agile teamwork.</li>
   <li>🤔 <b>Open for new opportunities</b>: you can get my <a href="https://flowcv.com/resume/dh6eklop29">CV</a></li>
   <li>🎓 <b>Background</b>: Industrial Engineering</li>
+  <li>📫 <b>Email</b>: luis.felipe.rucinque@gmail.com</li>
 </ul>
 <!--End: About me-->
 
@@ -36,12 +37,12 @@
   Let's connect👨🏻‍💻
 </h3>
 <p align="left">
- <!-- <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>-->
-	<a href="https://www.linkedin.com/in/luisfeliperucinque/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:luis.felipe.rucinque@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://wa.me/+34622152340"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
-	<a href="https://github.com/PipeRucinque"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/piperucinque"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/luisfeliperucinque/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://wa.me/+34622152340" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="WhatsApp"/></a>
+	<a href="https://instagram.com/piperucinque" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+ 	<!--<a href="https://piperucinque.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>-->
+	<!--<a href="mailto:luis.felipe.rucinque@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>-->
+	<!--<a href="https://github.com/PipeRucinque"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>-->
 </p>
 <!--End: Let's connect-->
 
