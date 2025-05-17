@@ -2,7 +2,7 @@
 <h2 align="left">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  , I'm pipe Rucinque
+  , I'm Pipe Rucinque
 </h2>
 <!--End: I'm Pipe-->
 
@@ -10,9 +10,9 @@
 <!--Start: About me-->
 <h3 style="display: inline-block">About me</h3>
 <ul>
-  <li>👨‍💻 <b>Fullstack developer</b> Mainly Javascript, React and Node</li>
+  <li>👨‍💻 <b>Fullstack developer</b> Mainly Javascript (React and Node)</li>
   <li>🚀 <b>Currently working with</b>: Next.js and Nest.js</li>
-  <li>🛠️ <b>Portfolio</b>: In progress</li>
+  <li>🛠️ <b>Portfolio</b>: In progress...</li>
   <li>🧠 <b>Work philosophy</b>: Clean code, CI/CD, and agile teamwork.</li>
   <li>🤔 <b>Open for new opportunities</b>: you can get my <a href="https://flowcv.com/resume/dh6eklop29">CV</a></li>
   <li>🎓 <b>Background</b>: Industrial Engineering</li>
